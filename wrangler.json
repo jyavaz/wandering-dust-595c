@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wandering-dust-595c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8e2bd1fd-f394-4fad-b948-76a705ddcd18",
+      "database_name": "lively-resonance-6237-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
